@@ -1,0 +1,14 @@
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+GreenhouseState	KEYWORD1
+Display_128x32	KEYWORD1
+Fan	KEYWORD1
+LightSensor	KEYWORD1
+TemperatureHumiditySensor	KEYWORD1
+MoistureSensor	KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
