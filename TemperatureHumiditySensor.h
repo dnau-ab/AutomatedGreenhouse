@@ -30,7 +30,7 @@ public:
     temperature /= num_samples;
 
     if (fahrenheit) {
-      temperature = (8.0/5.0 * temperature) + 32;
+      temperature = (9.0/5.0 * temperature) + 32;
     }
     
     return temperature;

@@ -22,7 +22,7 @@ TemperatureHumiditySensor _temperatureHumiditySensor2(TEMPERATURE_HUMIDITY_SENSO
 
 
 // LIMITS
-const float max_temperature = 80;
+const float max_temperature = 60;
 const float max_humidity = 0; // TODO: set
 
 
