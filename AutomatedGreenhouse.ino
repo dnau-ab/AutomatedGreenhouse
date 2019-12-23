@@ -30,8 +30,8 @@ const float max_humidity = 0; // TODO: set
 #define FAN_1_PIN 3
 #define FAN_2_PIN 4
 
-Fan _fan1(FAN_1_PIN);
-Fan _fan2(FAN_2_PIN);
+Fan _fan1(FAN_1_PIN, LOW);
+Fan _fan2(FAN_2_PIN, LOW);
 
 
 // DISPLAY
